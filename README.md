@@ -185,7 +185,7 @@ Contributions are welcome\! Please open an issue or submit a pull request.
 
 ### ⚠️ One Final Check!
 In the code above, look at this line:
-![Architecture Diagram](./assests/architecture.png)
+![Architecture Diagram](./assests/architecture-diagram.png)
 
 If the image you uploaded is named something else (like `diagram.png` or `my_arch.png`), you **must** change `architecture.png` in that line to match your file exactly!
 ```

@@ -1,0 +1,9 @@
+[programs.devnet]
+nft_marketplace = "FMs8619zki6RRzankv1WPt5oEUxWLQiPXQEcP6Th4WFG"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[features]
+skip-deploy = true

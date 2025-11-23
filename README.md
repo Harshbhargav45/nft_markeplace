@@ -1,7 +1,5 @@
 # 🖼️ Solana NFT Marketplace (Anchor)
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Solana](https://img.shields.io/badge/solana-mainnet-blueviolet)
 ![Anchor](https://img.shields.io/badge/anchor-v0.30-blue)
 ![Rust](https://img.shields.io/badge/rust-nightly-orange)
 
